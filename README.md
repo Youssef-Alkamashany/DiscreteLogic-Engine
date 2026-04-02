@@ -10,7 +10,8 @@ The engine is specifically optimized to validate the following logical identity:
 ## 🚀 Core Engine Features
 * [cite_start]**Virtual Logic Gate Array:** Full implementation of XOR, AND, OR, and NOT hardware-level logic gates[cite: 23, 24, 28, 55].
 * [cite_start]**Automated State Exploration:** Uses `itertools` to exhaustively test the entire 16-state truth space for variables A, B, C, and D[cite: 14, 31, 35].
-* [cite_start]**Independent Pipeline Verification:** * **LHS Pipeline:** Executes XOR-AND-IMPLICATION-NEGATION sequence[cite: 21, 26].
+* **Independent Pipeline Verification:**
+    * [cite_start]**LHS Pipeline:** Executes XOR-AND-IMPLICATION-NEGATION sequence[cite: 21, 26].
     * [cite_start]**RHS Pipeline:** Executes dual-NOT-OR-AND sequence[cite: 27, 29].
 * [cite_start]**Equivalence Matcher:** A dedicated parity-check algorithm that confirms absolute logical consistency across all inputs[cite: 30, 48].
 * [cite_start]**Dual-Mode Data Visualization:** Seamlessly toggles between High/Low (Binary 0/1) and True/False (T/F) data representations[cite: 2, 5, 31, 35].
@@ -29,4 +30,14 @@ The engine generates a structured matrix detailing every intermediate logical st
 4. [cite_start]**Parity Check:** Final Equivalence Match [cite: 30, 48]
 
 ---
-[cite_start]*Developed for the Discrete Mathematics Research Project* [cite: 1, 8]
+
+### 👤 Author
+**Youssef Alkamashany**
+* 🚀 **Aspiring MLOps & AI Data Engineer**.
+* 💼 **Team Leader** | Digital Egypt Pioneers Initiative (DEPI).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alkamashany-18261132b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Alkamashany)
+
+---
+[cite_start]<p align="center">"Developed for the Discrete Mathematics Research Project" [cite: 1, 8]</p>
