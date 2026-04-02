@@ -40,4 +40,4 @@ The engine generates a structured matrix detailing every intermediate logical st
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Alkamashany)
 
 ---
-[cite_start]<p align="center">"Developed for the Discrete Mathematics Research Project" [cite: 1, 8]</p>
+<p align="center">"Developed for the Discrete Mathematics Research Project" </p>
